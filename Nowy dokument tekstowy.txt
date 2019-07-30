@@ -1,0 +1,3 @@
+Set in netbeans:
+site root folder: <empty>
+source folder: src/
